@@ -1,6 +1,9 @@
 #wall .tag-1 {
   display: none;
 }
-#wall."slick wicked"{
+#wall ."slick wicked"{
+  display: none;
+}
+.parent {
   display: none;
 }
