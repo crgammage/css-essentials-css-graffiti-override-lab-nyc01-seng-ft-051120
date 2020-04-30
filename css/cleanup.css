@@ -7,6 +7,6 @@
 div#tag-2 {
   display: none;
 }
-div#tag-3 {
-  disiplay: none;
+div.tag-1 {
+  display: none;
 }
